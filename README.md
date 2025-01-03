@@ -32,6 +32,13 @@ I believe **AI agents** are the future, transforming industries and enabling hum
 ---
 
 
+## Experiences  
+
+### 📄 Know about my experiences  
+[View My Resume]([https://github.com/ARAVINDAN20/resume.pdf](https://github.com/ARAVINDAN20/aravind-portfolio/blob/main/Aravind_CV_Template%20completed.pdf))  
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aravind_tkd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aravindan-arru) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@aravindanm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AravindM3793) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@ARAVINDANM-c5p) 
 
