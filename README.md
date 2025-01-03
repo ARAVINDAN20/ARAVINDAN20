@@ -35,7 +35,7 @@ I believe **AI agents** are the future, transforming industries and enabling hum
 ## Experiences  
 
 ### 📄 Know about my experiences  
-[View My Resume]([https://github.com/ARAVINDAN20/resume.pdf](https://github.com/ARAVINDAN20/aravind-portfolio/blob/main/Aravind_CV_Template%20completed.pdf))  
+[View My Resume](https://github.com/ARAVINDAN20/aravind-portfolio/blob/main/Aravind_CV_Template%20completed.pdf)  
 
 ---
 
